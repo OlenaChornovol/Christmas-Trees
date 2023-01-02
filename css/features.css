@@ -54,7 +54,7 @@
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 768px) {
   .features__list {
     flex-wrap: wrap;
     justify-content: space-around;

@@ -48,7 +48,7 @@
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 768px) {
   .pay__title {
     font-size: 30px;
   }

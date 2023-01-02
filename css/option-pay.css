@@ -54,9 +54,6 @@
   }
 }
 
-@media (max-width: 760px) {
-}
-
 @media (max-width: 580px) {
   .option-pay__title {
     font-size: 14px;
